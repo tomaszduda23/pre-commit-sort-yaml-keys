@@ -1,6 +1,0 @@
--   id: yml-sorter
-    name: Sort YAML keys alphabetically
-    description: Does so without destroying the document.
-    entry: ./yml-sorter.sh
-    language: nodejs
-    files: '\w+\.ya{0,1}ml$'
