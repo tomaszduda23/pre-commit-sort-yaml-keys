@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/leehambley/pre-commit-sort-yaml-keys#readme",
   "devDependencies": {
-    "yml-sorter": "^1.1.1"
+    "yml-sorter": "^1.3.0"
   }
 }
